@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Luis+Hernandez;Full+Stack+Developer;Backend+Specialist;Building+Scalable+Systems)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/LuisHernandez1999"><img src="https://img.shields.io/github/followers/LuisHernandez1999?label=Followers&style=for-the-badge&logo=github&color=6366f1" alt="GitHub Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=LuisHernandez1999&style=for-the-badge&color=6366f1" alt="Profile Views"/>
-</p>
+
 
 </div>
 
@@ -149,7 +146,7 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 
 <div align="center">
 
-> *"Codigo bom nao e o que funciona hoje, e o que continua funcionando amanha sem dor."*
+> *"A simplicidade é a melhor resposta ."*
 
 | Principio | |
 |:---------:|:-|
@@ -166,8 +163,8 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisHernandez1999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuisHernandez1999)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuisFelipeHernandez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisohernandez27@gmail.com)
 
 ---
 
