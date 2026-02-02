@@ -101,12 +101,12 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 
 | Projeto | Descricao | Tech |
 |:--------|:----------|:----:|
-| **Sistema de Rotas** | Sistema operacional de servicos e rotas | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![DRF](https://img.shields.io/badge/-DRF-B71C1C?style=flat-square) |
-| **Dashboards Admin** | Dashboards administrativos completos | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) |
-| **App Mobile** | Aplicativo mobile operacional | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Microsservicos** | APIs leves e performaticas | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Chatbots WhatsApp** | Bots automatizados | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Pipelines ETL** | Integracoes e processamento de dados | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Sistema de Rotas** | Sistema operacional de servicos e rotas da coleta de lixo de Goiânia | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![DRF](https://img.shields.io/badge/-DRF-B71C1C?style=flat-square) |
+| **Dashboards Admin** | Dashboards administrativos completos e componentes reutilizaveis | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) |
+| **App Mobile** | Aplicativo mobile operacional de soltura e controle de frotas | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Microsservicos** | APIs leves e performaticas com o objetivo de tirar peso do backend principal | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Chatbots WhatsApp** | Bots automatizados integrados com backend principal, com o objetivo de geração de relatorios e acompanhamento | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Pipelines ETL** | Integracoes e processamento de dados de apis externas em largas escalas | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 
 </div>
 
@@ -120,7 +120,7 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 |:----------------:|:-------------:|:--:|
 | Django / DRF | MVC Classico | ETL Pipelines |
 | FastAPI | Convention over Configuration | APIs Performaticas |
-| Flask | Backends Complexos | Concorrencia |
+| Flask | Backends Organizado  | Concorrencia |
 
 </div>
 
@@ -133,10 +133,10 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 | Categoria | Exemplos |
 |:---------:|:---------|
 | **APIs REST** | Escalaveis com Django, FastAPI, Go |
-| **Sistemas Corporativos** | Gestao, rotas, servicos, coletas |
+| **Sistemas Corporativos** | Gestao, rotas, servicos, coletas, geração de documentos, imagens e gráficos |
 | **Dashboards** | Administrativos com React/Next.js |
 | **Mobile** | Apps integrados ao backend |
-| **Automacao** | Bots, scrapers, pipelines ETL |
+| **Automacao** | Bots, scrapers, pipelines ETL, aplicativos desktop |
 
 </div>
 
