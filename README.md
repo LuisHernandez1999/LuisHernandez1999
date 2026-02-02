@@ -27,7 +27,7 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 
 | Periodo | Empresa | Cargo | Descricao |
 |:-------:|:-------:|:-----:|:----------|
-| 2025 - atual | **Limpagyn** | Desenvolvedor | Sistemas em producao: backend, frontend, mobile, microsservicos, bots e pipelines |
+| 2025 - atual | **Limpagyn** | Desenvolvedor Fullstack| Sistemas em producao: backend, frontend, mobile, microsservicos, bots e pipelines |
 | 2024 - 2025 | **HTech** | Frontend Developer | Dashboards e layouts para sistemas de advocacia |
 | 2023 - 2024 | **Freelancer** | Full Stack | Django, Ruby, bots de scraping e automacoes |
 | 2022 - 2023 | **IFG** | Estagiario | Manutencao do SUAP (Django), microsservicos Flask, componentes React |
