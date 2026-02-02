@@ -77,7 +77,7 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisHernandez1999&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=LuisHernandez1999&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
