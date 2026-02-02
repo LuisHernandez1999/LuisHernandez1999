@@ -1,151 +1,198 @@
-# 👋 Olá, eu sou Luis Hernandez
+<div align="center">
 
-Bem-vindo ao meu GitHub! 🚀
-Aqui você vai encontrar projetos focados em **arquitetura escalável**, **boas práticas**, **backend robusto** e **frontends modernos**, sempre pensando em código limpo, manutenção a longo prazo e performance.
+# 👋 Olá, eu sou **Luis Hernandez**
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Backend+Specialist;Building+Scalable+Systems;Clean+Code+Enthusiast)](https://git.io/typing-svg)
 
-## 💼 Experiência
+<p>
+  <a href="https://github.com/LuisHernandez"><img src="https://img.shields.io/github/followers/LuisHernandez?label=Followers&style=for-the-badge&logo=github&color=6366f1" alt="GitHub Followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=LuisHernandez&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+</p>
 
-**Limpagyn** — *Desenvolvedor*
-*(2025 – atual)*
-Atuação em sistemas em produção envolvendo backend, frontend, mobile, microsserviços, bots e pipelines de dados.
-
-**HTech** — *Frontend Developer*
-*(2024 – 2025)*
-Desenvolvimento de **dashboards** e **layouts de sistemas para advocacia**, com foco em usabilidade e integração com backend.
-
-**Freelancer / Open to Work** — *Desenvolvedor Full Stack*
-*(2023 – 2024)*
-Desenvolvimento de sistemas médios utilizando **Django** e **Ruby**, além de **bots de scraping** e automações.
-
-**IFG (Instituto Federal de Goiás)** — *Estagiário em Desenvolvimento*
-*(2022 – 2023)*
-Manutenção do **SUAP** utilizando **Django**, criação de **microsserviços em Flask** e desenvolvimento de **novos componentes em React.js**.
+</div>
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre Mim
 
-Desenvolvedor focado em backend, com experiência prática em sistemas **em produção**. Atuei do backend ao frontend em projetos reais, incluindo APIs, microsserviços, apps mobile, bots e pipelines de dados.
-
-Principais projetos desenvolvidos na **Limpagyn**:
-
-* **Sistema operacional de serviços e rotas** (Django / DRF)
-* **Dashboards administrativos** (React / Next.js)
-* **Aplicativo mobile operacional** (React Native + Django)
-* **Microsserviços** (FastAPI, Flask, Ruby on Rails, Node.js)
-* **Chatbots de WhatsApp** (Node.js)
-* **Pipelines de ETL e integrações externas** (Go)
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 🔙 Linguagens & Frameworks
-
-**Backend / Microsserviços**
-
-* Python (Django / DRF, FastAPI, Flask)
-* Ruby on Rails
-* Node.js
-* Go (ETL e APIs externas)
-
-**Frontend / Mobile / Desktop**
-
-* React / Next.js
-* React Native (TypeScript / JavaScript)
-* Tkinter
-
-**Banco de Dados**
-
-* PostgreSQL******
-
-#### 💎 Destaque em Ruby
-
-* **Ruby on Rails**
-* Uso de **MVC clássico**
-* Forte aderência a **Convention over Configuration**
-* Desenvolvimento e manutenção de **backends complexos**
-* Código orientado à clareza, legibilidade e domínio do negócio
-* Atuação em projetos reais e sistemas em produção
-
-#### 🧩 Microserviços em Python
-
-* **FastAPI** e **Flask** para microsserviços
-* APIs leves, rápidas e bem tipadas
-* Integração entre serviços e backend principal
-* Ideal para escalar partes específicas do sistema
-* APIs leves, rápidas e bem tipadas
-* Integração entre serviços e backend principal
-* Ideal para escalar partes específicas do sistema**
-* **Go (Golang)** — APIs performáticas e concorrência
-* **Ruby** — experiência com backend e aplicações web**
-
-### 🔜 Frontend, Mobile & Desktop
-
-* **React / Next.js**
-* **React Native** (TypeScript / JavaScript)
-* **Tkinter** (desktop)
-* Dashboards e aplicações operacionais****
-
-### 🧱 Arquitetura
-
-* DDD
-* MVT (Django)
-* Arquitetura em camadas
-* Microsserviços
-
-### ⚙️ Outras Skills
-
-* Pandas e NumPy (dados)
-* Git & GitHub
-* Modelagem e refatoração
-
----
-
-## 🧱 Padrões que eu utilizo
-
-✔ DTOs explícitos (Request / Response)
-✔ Services enxutos e reutilizáveis
-✔ Mappers isolando regras de transformação
-✔ Views finas (orquestração, não lógica)
-✔ Nada de "God Services" 😄
-✔ Código pensando no frontend desde o backend
-
-Exemplo de camadas:
-
-```
-View (DRF)
- └── Service
-      ├── DTOs (Input / Output)
-      ├── Mappers
-      └── Utils
+```typescript
+const luisHernandez = {
+    role: "Full Stack Developer",
+    focus: "Backend & Scalable Systems",
+    location: "Brasil 🇧🇷",
+    currentWork: "Limpagyn",
+    passions: ["Clean Code", "Architecture", "Performance"],
+    funFact: "Código bom não é o que funciona hoje, é o que continua funcionando amanhã sem dor."
+};
 ```
 
----
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 📊 Tipos de projetos que você vai encontrar aqui
+Desenvolvedor focado em **backend**, com experiência prática em sistemas **em produção**. Atuei do backend ao frontend em projetos reais, incluindo APIs, microsserviços, apps mobile, bots e pipelines de dados.
 
-* APIs REST escaláveis
-* Sistemas operacionais e corporativos (gestão, rotas, serviços, coletas)
-* Projetos desenvolvidos para a **Limpagyn**
-* Dashboards administrativos
-* Aplicações mobile integradas ao backend
-* Filtros avançados por data, status, usuário e cliente
-* Paginação eficiente para grandes volumes de dados
-* Integração real frontend + backend + mobile
+- 🔭 Atualmente trabalhando na **Limpagyn**
+- 🌱 Sempre aprendendo sobre **arquitetura escalável**
+- 💡 Adepto do **Clean Code** e **boas práticas**
+- 🎯 Foco em **performance** e **manutenibilidade**
 
 ---
 
-## 📌 Filosofia de código
+## 💼 Experiência Profissional
 
-> "Código bom não é o que funciona hoje, é o que continua funcionando amanhã sem dor."
-
-* Clareza > complexidade
-* Organização > atalhos
-* Arquitetura > gambiarra
+| Período | Empresa | Cargo |
+|:-------:|:-------:|:-----:|
+| 2025 - atual | **Limpagyn** | Desenvolvedor Full Stack |
+| 2024 - 2025 | **HTech** | Frontend Developer |
+| 2023 - 2024 | **Freelancer** | Desenvolvedor Full Stack |
+| 2022 - 2023 | **IFG** | Estagiário em Desenvolvimento |
 
 ---
 
+## 🛠️ Tech Stack
 
+<div align="center">
+
+### 🔙 Backend & Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🎨 Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Banco de Dados & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisHernandez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHernandez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisHernandez&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisHernandez&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+</div>
+
+---
+
+## 🏆 Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Descrição | Tech |
+|:--------|:----------|:----:|
+| 🚚 **Sistema de Rotas** | Sistema operacional de serviços e rotas | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![DRF](https://img.shields.io/badge/-DRF-red?style=flat-square) |
+| 📊 **Dashboards Admin** | Dashboards administrativos completos | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) |
+| 📱 **App Mobile** | Aplicativo mobile operacional | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| ⚡ **Microsserviços** | APIs leves e performáticas | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| 🤖 **Chatbots WhatsApp** | Bots automatizados | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| 🔄 **Pipelines ETL** | Integrações e processamento de dados | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+
+</div>
+
+---
+
+## 🧱 Arquitetura & Padrões
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│                    View (DRF)                       │
+│                        │                            │
+│                        ▼                            │
+│                    Service                          │
+│           ┌─────────┼─────────┐                     │
+│           ▼         ▼         ▼                     │
+│         DTOs     Mappers    Utils                   │
+│      (In/Out)   (Transform) (Helpers)               │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+| Padrão | Status |
+|:-------|:------:|
+| ✅ DTOs explícitos (Request / Response) | Implementado |
+| ✅ Services enxutos e reutilizáveis | Implementado |
+| ✅ Mappers isolando regras de transformação | Implementado |
+| ✅ Views finas (orquestração, não lógica) | Implementado |
+| ✅ Código pensando no frontend desde o backend | Implementado |
+| ❌ God Services | Evitado 😄 |
+
+---
+
+## 💎 Especialidades
+
+<div align="center">
+
+| 🐍 Python Ecosystem | 💎 Ruby on Rails | 🔷 Go |
+|:------------------:|:----------------:|:----:|
+| Django / DRF | MVC Clássico | ETL Pipelines |
+| FastAPI | Convention over Configuration | APIs Performáticas |
+| Flask | Backends Complexos | Concorrência |
+
+</div>
+
+---
+
+## 📌 Filosofia de Código
+
+<div align="center">
+
+> *"Código bom não é o que funciona hoje, é o que continua funcionando amanhã sem dor."*
+
+| 🎯 Princípio | 📝 Descrição |
+|:------------:|:-------------|
+| **Clareza** | > Complexidade |
+| **Organização** | > Atalhos |
+| **Arquitetura** | > Gambiarra |
+
+</div>
+
+---
+
+## 📫 Vamos Conectar!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisHernandez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuisHernandez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Se curtir algum projeto, deixa uma estrela!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer"/>
+
+</div>
