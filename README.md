@@ -163,12 +163,12 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisHernandez1999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuisFelipeHernandez)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisohernandez27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuisFelipeHernandezPenariol)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/luisohernandez27@gmail.com)
 
 ---
 
-Se curtir algum projeto, deixa uma estrela!
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer"/>
 
