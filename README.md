@@ -68,22 +68,8 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 
 ## GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/LuisHernandez1999">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisHernandez1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/LuisHernandez1999">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHernandez1999&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-  </a>
-</div>
 
-<br/>
 
-<div align="center">
-  <a href="https://github.com/LuisHernandez1999">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisHernandez1999&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1&sideLabels=6366F1&dates=C9D1D9" alt="GitHub Streak"/>
-  </a>
-</div>
 
 <br/>
 
