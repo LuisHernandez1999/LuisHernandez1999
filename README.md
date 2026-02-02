@@ -28,12 +28,12 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 
 ## Experiencia Profissional
 
-| Periodo | Empresa | Cargo |
-|:-------:|:-------:|:-----:|
-| 2025 - atual | **Limpagyn** | Desenvolvedor Full Stack |
-| 2024 - 2025 | **HTech** | Frontend Developer |
-| 2023 - 2024 | **Freelancer** | Desenvolvedor Full Stack |
-| 2022 - 2023 | **IFG** | Estagiario em Desenvolvimento |
+| Periodo | Empresa | Cargo | Descricao |
+|:-------:|:-------:|:-----:|:----------|
+| 2025 - atual | **Limpagyn** | Desenvolvedor | Sistemas em producao: backend, frontend, mobile, microsservicos, bots e pipelines |
+| 2024 - 2025 | **HTech** | Frontend Developer | Dashboards e layouts para sistemas de advocacia |
+| 2023 - 2024 | **Freelancer** | Full Stack | Django, Ruby, bots de scraping e automacoes |
+| 2022 - 2023 | **IFG** | Estagiario | Manutencao do SUAP (Django), microsservicos Flask, componentes React |
 
 ---
 
@@ -112,6 +112,38 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 | Django / DRF | MVC Classico | ETL Pipelines |
 | FastAPI | Convention over Configuration | APIs Performaticas |
 | Flask | Backends Complexos | Concorrencia |
+
+</div>
+
+---
+
+## Tipos de Projetos
+
+<div align="center">
+
+| Categoria | Exemplos |
+|:---------:|:---------|
+| **APIs REST** | Escalaveis com Django, FastAPI, Go |
+| **Sistemas Corporativos** | Gestao, rotas, servicos, coletas |
+| **Dashboards** | Administrativos com React/Next.js |
+| **Mobile** | Apps integrados ao backend |
+| **Automacao** | Bots, scrapers, pipelines ETL |
+
+</div>
+
+---
+
+## Filosofia de Codigo
+
+<div align="center">
+
+> *"Codigo bom nao e o que funciona hoje, e o que continua funcionando amanha sem dor."*
+
+| Principio | |
+|:---------:|:-|
+| **Clareza** | > Complexidade |
+| **Organizacao** | > Atalhos |
+| **Arquitetura** | > Gambiarra |
 
 </div>
 
