@@ -71,13 +71,7 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 
 
 
-<br/>
 
-<div align="center">
-  <a href="https://github.com/LuisHernandez1999">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisHernandez1999&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316&area=true&area_color=6366F1" width="100%"/>
-  </a>
-</div>
 
 ---
 
