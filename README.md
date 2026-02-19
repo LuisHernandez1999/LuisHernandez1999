@@ -64,16 +64,7 @@ Desenvolvedor focado em **backend**, com experiencia pratica em sistemas **em pr
 
 </div>
 
----
 
-## GitHub Stats
-
-
-
-
-
-
----
 
 ## Projetos em Destaque
 
